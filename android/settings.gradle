@@ -1,0 +1,3 @@
+rootProject.name = 'fish_farm_2333'
+
+include ':app'
